@@ -2,8 +2,11 @@
 Welcome to my personal portfolio!
 
 ## About Me
-I’m a Software developer since 40 years, I'm married, 3 childs, i like music, MJ, PONTY, PGABRIEL, MADONNA...  
+I’m a Software developer since 40 years, I'm married, 3 childs, I like music such MJ, PONTY, PGABRIEL, MADONNA...  
+A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and scrum methodologies.  
+
 **I like my development solutions to be a contribution to the users and companies that use them.**
+
 
 ## Skills
 - I have experience in windows, androis & IOS platforms.
