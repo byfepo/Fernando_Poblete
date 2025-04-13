@@ -5,7 +5,8 @@ Welcome to my personal portfolio!
 I’m a Software developer since 40 years, I'm married, 3 childs, I like music such MJ, PONTY, PGABRIEL, MADONNA...  
 A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and scrum methodologies.  
 
-**I like my development solutions to be a contribution to the users and companies that use them.**
+> [!NOTE]
+> **I like my development solutions to be a contribution to the users and companies that use them.**
 
 
 ## Skills
@@ -18,5 +19,5 @@ A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and 
 
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) or [GitHub](https://github.com/BYFEPO).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) , [GitHub](https://github.com/BYFEPO) or [mail](pobletefernando@yahoo.com).
 
