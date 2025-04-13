@@ -1,19 +1,19 @@
-# Raiyan Bin Sarwar
-Welcome to my personal portfolio! I’m a third-year CSE undergraduate at Bangladesh University of Professionals and a Microsoft Student Ambassador (Beta).
+# Hi, I'm Fernando Poblete Becerra!!!
+Welcome to my personal portfolio! I’m a Software developer since 40 years.
 
 ## About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
+I have experience in windows, androis & IOS platforms, and technology communities.
 
 ## Skills
-- Cloud Computing
-- GitHub & Git
-- Microsoft Power Platform
+- Languajes like C#, Python, javascrip.
+- Databases SQL SERVER, Oracle & MONGODB
+- Microsoft Office Platform
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/username) or [GitHub](https://github.com/username).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) or [GitHub](https://github.com/BYFEPO).
 
 
-# Hi, I'm Fernando Poblete Becerra!!!
+
 ## Software developer since 40 years
 
 Desarrollo para windows, androis & IOS
