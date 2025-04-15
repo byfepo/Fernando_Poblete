@@ -20,8 +20,11 @@ A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and 
 ## Proyects
 
 All my proyect, are under my enterprice INPRODATA LTDA [website](https://www.inprodata.cl)
-
 One of these is on [GitHub](https://github.com/byfepo/proyect01) about Json Web Token use in API REST platform. 
+
+## Collaborators
+Enmanuel  [LinkedIn](https://github.com/EnmanuelKantt/EnmanuelKantt)
+Juan Gonzalez [LinkedIn](https://github.com/JuanGonzalezJara)
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) , [GitHub](https://github.com/BYFEPO) or [mail](pobletefernando@yahoo.com).
