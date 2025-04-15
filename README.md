@@ -10,7 +10,7 @@ A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and 
 
 
 ## Skills
-- I have experience in windows, androis & IOS platforms.
+- I have developer experience in windows, androis & IOS platforms.
 - Languajes like C#, Python, javascrip, and oldiest like COBOL & ASM too, of course.
 - Databases SQL SERVER, Oracle & MONGODB
 - Microsoft Office Platform
@@ -19,7 +19,7 @@ A few days ago, i finished my BACKEND studies, emphasis on javascrip, agile and 
 
 ## Proyects
 
-All my proyect, are under my enterprice INPRODATA LTDA [website](www.inprodata.cl)
+All my proyect, are under my enterprice INPRODATA LTDA [website](https://www.inprodata.cl)
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) , [GitHub](https://github.com/BYFEPO) or [mail](pobletefernando@yahoo.com).
