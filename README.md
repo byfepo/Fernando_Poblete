@@ -23,8 +23,8 @@ All my proyect, are under my enterprice INPRODATA LTDA [website](https://www.inp
 One of these is on [GitHub](https://github.com/byfepo/proyect01) about Json Web Token use in API REST platform. 
 
 ## Collaborators
-Enmanuel  [LinkedIn](https://github.com/EnmanuelKantt/EnmanuelKantt)
-Juan Gonzalez [LinkedIn](https://github.com/JuanGonzalezJara)
+Enmanuel  [LinkedIn](https://github.com/EnmanuelKantt/EnmanuelKantt)  
+Juan Gonzalez [LinkedIn](https://github.com/JuanGonzalezJara)  
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-poblete-becerra) , [GitHub](https://github.com/BYFEPO) or [mail](pobletefernando@yahoo.com).
